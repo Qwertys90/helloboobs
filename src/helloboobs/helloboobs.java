@@ -9,6 +9,7 @@ System.out.println("asdasdadsadasda");
 System.out.println("( . )( . )");
 System.out.println("8====D");
 System.out.println("error daniele capuozzo");
+System.out.println("     (_._)   --->   8=======D   ---->   (_O_)     ");
 	}
 
 }
