@@ -6,6 +6,7 @@ public class helloboobs {
 System.out.println("Luca tettone");
 System.out.println("gitemmuort");
 System.out.println("asdasdadsadasda");
+System.out.println("( . )( . )");
 	}
 
 }
